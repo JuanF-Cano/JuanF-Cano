@@ -12,7 +12,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,pnpm,bun,npm,nodejs,nestjs,ts,js,supabase" />
 
 ### Frontend:
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,nextjs,react,bootstrap,docker,redux,express"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,nextjs,react,vuejs,bootstrap,docker,redux,express"/>
 
 ### Tools: 
 <img src="https://skillicons.dev/icons?i=postman,vercel,notion,figma,vscode,git,github,ai,replit,discord,latex,ubuntu,windows" /> 
