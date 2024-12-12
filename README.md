@@ -15,10 +15,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,nextjs,react,vuejs,bootstrap,docker,redux,express"/>
 
 ### Tools: 
-<img src="https://skillicons.dev/icons?i=postman,vercel,notion,figma,vscode,git,github,ai,replit,discord,latex,ubuntu,windows" /> 
+<img src="https://skillicons.dev/icons?i=postman,vercel,notion,figma,vscode,git,github,ai,replit,discord,ubuntu,windows" /> 
 
 ### Other languages:
-<img src="https://skillicons.dev/icons?i=php,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=php,c,cpp" />
 
 ## GitHub stats
 <div align="center">
